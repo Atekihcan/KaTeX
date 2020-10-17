@@ -679,6 +679,10 @@ const fontMap: {[string]: {| variant: FontVariant, fontName: string |}} = {
         variant: "italic",
         fontName: "Main-Italic",
     },
+    "textsc": {
+        variant: "normal",
+        fontName: "Main-Regular",
+    },
     "mathit": {
         variant: "italic",
         fontName: "Main-Italic",
